@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de joao gabriel de araujo melo😁
 
  <div>
    <a href="https://github.com/joaomelo06">
