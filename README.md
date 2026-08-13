@@ -29,3 +29,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+<div align="center">
+  <!-- Cards de Estatísticas e Linguagens lado a lado (Com Bypass de Cache) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaomelo06&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomelo06&layout=compact&theme=dark&nocache=2" height="170" />
+</div>
