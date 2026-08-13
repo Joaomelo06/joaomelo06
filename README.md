@@ -1,16 +1,32 @@
-## Bem-vindo(a) ao meu Perfil, me chamo joao gabriel de araujo melo😁
+div align="center">
+  <h1>Hello Word, I'm João Melo! 👋</h1>
+  <p>Passionate software developer, solving problems through code.</p>
+</div>
 
- <div>
-   <a href="https://github.com/joaomelo06">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomelo06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomelo06&layout=compact&langs_count=6&theme=radical"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
+
+### 👨‍💻 A little about me
+- 🎓 Constantly studying and improving my skills in **Software Development**.
+- 💡 Currently focusing heavily on **Java**, **Programming Logic**, and **Object-Oriented Programming (OOP)**.
+- 🚀 Always building practical projects to solidify my knowledge.
+- 📫 How to reach me: [Insert your email or LinkedIn link here]
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
  
-<br>
- 
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql,git,github,eclipse" alt="My Skills" />
+</div>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaomelo06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomelo06&layout=compact&theme=dracula" width="48%" />
+</div>
