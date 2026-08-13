@@ -1,5 +1,5 @@
 div align="center">
-  <h1>Hello Word, I'm João Melo! 👋</h1>
+  <h1>Hello Word, I'm João Gabriel de Araújo melo! 👋</h1>
   <p>Passionate software developer, solving problems through code.</p>
 </div>
 
